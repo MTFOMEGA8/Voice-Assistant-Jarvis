@@ -18,6 +18,18 @@ An AI assistant that you can control with your voice right on your desktop. The 
 **Client:** Python, Groq API, Logging.
 
 
+## Future Plans
+
+-Interaction with the user interface.
+
+-Ability to interact with the user environment (creating files, opening programs).
+
+-Full voice customization, just like Tony Stark’s assistant.
+
+-Language selection based on the user’s preference.
+
+-And much more!
+
 ## How to run
 
 1. To get started, you need to download the “J.A.R.V.I.S.” folder.
@@ -25,4 +37,6 @@ An AI assistant that you can control with your voice right on your desktop. The 
 3. Open the “env.example” file and replace “your_key_here” with your API key.
 4. Rename “env.example” to “.env”.
 5. Run the script via the “main.py” 
+
+
 
