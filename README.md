@@ -1,6 +1,7 @@
 # Project Title/en
 
 An AI assistant that you can control with your voice right on your desktop. The screenshot below shows one of its voice commands—simply say it into the microphone, and then ask any question or make any request (by voice). It will then provide you with a voice response to your request.
+
 <img width="300" height="300" alt="imag23423e" src="https://github.com/user-attachments/assets/577db38d-41aa-4b04-9a7d-b46a263eae70" />
 
 
