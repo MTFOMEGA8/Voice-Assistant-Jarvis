@@ -23,3 +23,4 @@ An AI assistant that you can control with your voice right on your desktop. The 
 3. Open the “env.example” file and replace “your_key_here” with your API key.
 4. Rename “env.example” to “.env”.
 5. Run the script via the “main.py” file.
+<img width="800" height="800" alt="imag23423e" src="https://github.com/user-attachments/assets/577db38d-41aa-4b04-9a7d-b46a263eae70" />
